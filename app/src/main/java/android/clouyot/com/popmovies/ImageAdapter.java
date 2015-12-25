@@ -43,6 +43,7 @@ public class ImageAdapter extends ArrayAdapter{
 
         imageView.setImageResource(mThumbIds[position]);
         return imageView;
+
     }
 
 
